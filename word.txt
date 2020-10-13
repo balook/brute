@@ -1,3 +1,6 @@
+swagger-ui.html
+/swagger-ui.html
+sm/login.jsp
 search
 language
 yhs
