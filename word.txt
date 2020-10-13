@@ -212,5 +212,6 @@ employeeservice.asmx
 settings/shortcuts
 api/schema/
 yamplus_api/
+status.htm
 status.html
 yamplus_api/api-doc
