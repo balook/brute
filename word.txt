@@ -219,3 +219,7 @@ yamplus_api/
 status.htm
 status.html
 yamplus_api/api-doc
+.ftpquota               
+581                     
+plugins/tiny_mce        
+wyzzicons
