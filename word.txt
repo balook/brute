@@ -1,3 +1,7 @@
+search
+language
+yhs
+aol
 js
 *
 .asmx
