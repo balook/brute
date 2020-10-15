@@ -229,3 +229,4 @@ yamplus_api/api-doc
 581                     
 plugins/tiny_mce        
 wyzzicons
+clientaccesspolicy.xml
