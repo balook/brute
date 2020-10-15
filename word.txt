@@ -1,3 +1,6 @@
+rotation
+pong
+pong/
 swagger-ui.html
 /swagger-ui.html
 sm/login.jsp
