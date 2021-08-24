@@ -1,1 +1,2 @@
 accesslogs
+phpmyadmin/setup/index.php
